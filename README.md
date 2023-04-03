@@ -1,5 +1,5 @@
-add-self-introduction-conflict
-
+- add-self-introduction-conflict
+- add main
 
 # To practice resolving conflicts with Git and GitHub using pull requests, follow these steps:
 
